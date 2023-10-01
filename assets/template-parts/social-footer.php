@@ -1,0 +1,10 @@
+<?php if (get_theme_mod('patricia_minimal_footer_social', 1) == 1) : ?>
+	<div class="social-footer">
+		<?php if(get_theme_mod('patricia_minimal_facebook')) : ?><a href="<?php echo esc_url( get_theme_mod('patricia_minimal_facebook') ); ?>" target="_blank" title="<?php esc_attr_e( 'Facebook', 'patricia-minimal' ); ?>"><i class="fab fa-facebook-f" aria-hidden="true"></i></a><?php endif; ?>
+		<?php if(get_theme_mod('patricia_minimal_twitter')) : ?><a href="<?php echo esc_url( get_theme_mod('patricia_minimal_twitter') ); ?>" target="_blank" title="<?php esc_attr_e( 'Twitter', 'patricia-minimal' ); ?>"><i class="fab fa-twitter" aria-hidden="true"></i></a><?php endif; ?>
+		<?php if(get_theme_mod('patricia_minimal_linkedin')) : ?><a href="<?php echo esc_url( get_theme_mod('patricia_minimal_linkedin') ); ?>" target="_blank" title="<?php esc_attr_e( 'LinkedIn', 'patricia-minimal' ); ?>"><i class="fab fa-linkedin" aria-hidden="true"></i></a><?php endif; ?>
+		<?php if(get_theme_mod('patricia_minimal_pinterest')) : ?><a href="<?php echo esc_url( get_theme_mod('patricia_minimal_pinterest') ); ?>" target="_blank" title="<?php esc_attr_e( 'Pinterest', 'patricia-minimal' ); ?>"><i class="fab fa-pinterest" aria-hidden="true"></i></a><?php endif; ?>
+		<?php if(get_theme_mod('patricia_minimal_instagram')) : ?><a href="<?php echo esc_url( get_theme_mod('patricia_minimal_instagram') ); ?>" target="_blank" title="<?php esc_attr_e( 'Instagram', 'patricia-minimal' ); ?>"><i class="fab fa-instagram" aria-hidden="true"></i></a><?php endif; ?>
+		<?php if(get_theme_mod('patricia_minimal_youtube')) : ?><a href="<?php echo esc_url( get_theme_mod('patricia_minimal_youtube') ); ?>" target="_blank" title="<?php esc_attr_e( 'YouTube', 'patricia-minimal' ); ?>"><i class="fab fa-youtube-play" aria-hidden="true"></i></a><?php endif; ?>	
+	</div>
+<?php endif; ?>

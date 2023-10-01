@@ -1,0 +1,150 @@
+/*
+ *  Custom Customizer css v1.0
+ *  Author: VolThemes
+ *  Author URI: https://volthemes.com
+ *  
+ *  @package Patricia
+ */
+ 
+.customize-control-title {
+	font-size: 13px;
+}
+
+.customize-control {
+	position: relative;
+	margin-bottom: 0;
+	padding: 8px 15px;
+	background: #fff;
+	box-sizing: border-box;
+}
+
+#customize-controls .customize-section-description  {
+	background-color: #fff;
+	border: 1px solid #e1e1e1;
+	padding: 1em;
+	border-radius: 4px;
+	box-shadow: 0 1px 5px rgba(0,0,0,0.05);
+	position: relative;
+}
+
+#customize-controls .customize-section-description .dashicons {
+	position: absolute;
+	right: 0.5rem;
+	opacity: 0.5;
+}
+
+#customize-controls .customize-section-description::after,
+#customize-controls .customize-section-description::before {
+	top: 100%;
+	left: 10%;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+}
+
+#customize-controls .customize-section-description::after {
+	border-color: rgba(255, 255, 255, 0);
+	border-top-color: #fff;
+	border-width: 8px;
+	margin-left: -8px;
+}
+
+#customize-controls .customize-section-description::before {
+	border-color: rgba(225, 225, 225, 0);
+	border-top-color: #e1e1e1;
+	border-width: 9px;
+	margin-left: -9px;
+}
+
+.important-hide {
+	display: none!important;
+}
+
+#customize-controls .control-section-patricia-upsell .accordion-section-title:hover,
+#customize-controls .control-section-patricia-upsell .accordion-section-title:focus {
+	background-color: #ffffff;
+}
+
+.control-section-patricia-upsell .accordion-section-title .button {
+	margin-top: -3px;
+	margin-left: 8px;
+}
+
+.rtl .control-section-patricia-upsell .accordion-section-title .button {
+	margin-left:  0;
+	margin-right: 8px;
+}
+
+#accordion-section-patricia-upsell a.button.button-secondary {
+	background: #ceac92;
+	color: #fff;
+	border: none;
+	box-shadow: none;
+}
+
+#sub-accordion-section-title_tagline .description.customize-section-description,
+#sub-accordion-section-site-layout-section-site .description.customize-section-description,
+#sub-accordion-section-site-layout-section-header .description.customize-section-description,
+#sub-accordion-section-site-layout-section-footer .description.customize-section-description,
+#sub-accordion-section-colors .description.customize-section-description {
+    background-color: #e2f1ff;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+    margin: 0 -12px 0 -10px;
+    padding: 15px 15px 16px;
+    font-size: 12px;
+}
+
+.attachment-media-view,
+.media-widget-preview.media_audio,
+.media-widget-preview.media_image {
+	background: #fff;
+}
+
+#customize-control-blogname {
+	border: none !important;
+	margin: 0 !important;
+	padding-top: 0 !important;
+}
+.remove-section {
+	display: none !important;
+}
+.customize-control input[type="number"] {
+	width: 30%;
+}
+
+.buttonset input {
+	display: none;
+}
+.buttonset input[type="radio"]:checked + label img {
+	border: 4px solid #ddd;
+}
+
+#customize-control-patricia_minimal_header_search,
+#customize-control-display_header_text,
+#customize-control-patricia_minimal_featured_slider,
+#customize-control-patricia_minimal_entry_excerpt,
+#customize-control-patricia_minimal_color_scheme,
+#customize-control-menu_link_hover_color,
+#customize-control-patricia_minimal_site_desc_color,
+#customize-control-entry-excerpt-length,
+#customize-control-patricia_footer_logo {
+	border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    margin-bottom: 15px;
+}
+
+#customize-control-blogname {
+	border-top: 1px solid rgba(0, 0, 0, 0.1);
+    margin-top: 12px;
+}
+
+#customize-control-sidebar_position,
+#customize-control-patricia_minimal_featured_slider_slides {
+	padding-bottom: 15px;
+}
+	
+#customize-control-header_textcolor {
+	display: none !important;
+}

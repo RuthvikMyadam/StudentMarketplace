@@ -1,0 +1,886 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Patricia Minimal\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-12 18:01+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.2\n"
+"X-Domain: patricia-minimal"
+
+#: comments.php:30
+msgid " Log out?"
+msgstr ""
+
+#. 1: date, 2: time
+#: core/functions/template-tags.php:111
+#, php-format
+msgid " at "
+msgstr ""
+
+#: core/functions/template-functions.php:37
+#, php-format
+msgid ""
+" is now installed and ready to use. Click below to see theme documentation, "
+"plugins to install and other details to get started."
+msgstr ""
+
+#: comments.php:94 comments.php:111
+msgid " Older Comments"
+msgstr ""
+
+#: core/customizer/customizer-library/custom-controls/vt-custom-control.php:21
+msgid " Select "
+msgstr ""
+
+#: core/functions/template-tags.php:116
+msgid "(Edit)"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:354
+msgid "1 Variation"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:350
+msgid "15+"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:364
+msgid "2"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:359
+msgid "2 Variation"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:370
+msgid "3 Variation"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:355
+msgid "4 Variation"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:349
+msgid "6"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:365
+msgid "8"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:360
+msgid "8 Variation"
+msgstr ""
+
+#: core/widgets/vt-about-widget.php:26
+msgid "[VT] About Widget"
+msgstr ""
+
+#: core/widgets/vt-latest-posts-widget.php:10
+msgid "[VT] Latest Posts"
+msgstr ""
+
+#: core/widgets/vt-latest-posts-widget.php:8
+msgid ""
+"A widget that displays your latest posts from all categories or a certain"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:34
+#: core/welcome-screen/class-patricia-admin.php:61
+msgid "About"
+msgstr ""
+
+#: core/widgets/vt-about-widget.php:179
+msgid "About Me"
+msgstr ""
+
+#: core/functions/template-functions.php:123
+msgid "Add menu for theme location: Primary Menu"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:390
+msgid "Advanced"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:345
+msgid "Advanced (50+ Setting options)"
+msgstr ""
+
+#: core/widgets/vt-latest-posts-widget.php:85
+msgid "All categories"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:150
+msgid "All Theme Options are available via Customize screen."
+msgstr ""
+
+#: core/customizer/customizer-options.php:151
+msgid "Amount of Slides"
+msgstr ""
+
+#: core/customizer/customizer-options.php:191
+msgid "Archive Layout"
+msgstr ""
+
+#: functions.php:125
+msgctxt "Barlow Condensed font: on or off"
+msgid "on"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:344
+#: core/welcome-screen/class-patricia-admin.php:389
+msgid "Basic"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:358
+msgid "Blog Layout"
+msgstr ""
+
+#: core/customizer/customizer-options.php:165
+msgid "Blog Settings"
+msgstr ""
+
+#: comments.php:31
+msgid "Cancel"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:114
+msgid "Changelog"
+msgstr ""
+
+#: core/customizer/customizer-options.php:398
+msgid "Choose category to show the slider."
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:195
+msgid "Click below to translate this theme into your own language."
+msgstr ""
+
+#: core/customizer/customizer-options.php:295
+msgid "Color Scheme"
+msgstr ""
+
+#: core/customizer/customizer-options.php:287
+msgid "Color Settings"
+msgstr ""
+
+#: comments.php:28
+msgid "Comment"
+msgstr ""
+
+#: comments.php:93 comments.php:110
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:116
+msgid "Comments are closed."
+msgstr ""
+
+#. %1$s for number of comments
+#: comments.php:75
+#, php-format
+msgctxt "comments title"
+msgid " Comment"
+msgid_plural " Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: post title
+#: comments.php:71
+msgctxt "comments title"
+msgid "One Comment"
+msgstr ""
+
+#: core/functions/template-functions.php:36
+msgid "Congratulations!"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:288
+msgid "Contact Form 7"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:184
+msgid "Contact Page"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:368
+msgid "Content Boxes"
+msgstr ""
+
+#: template-parts/featured-slider.php:48
+msgid "Continue Reading"
+msgstr ""
+
+#. 1: year, 2: sitename
+#: core/functions/template-tags.php:145
+#, php-format
+msgid "Copyright   . All rights reserved."
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:328
+msgid "Custom Logo"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:363
+msgid "Custom Widget"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:152
+msgid "Customize"
+msgstr ""
+
+#: core/customizer/customizer-options.php:204
+msgid "Default: 38"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:403
+msgid "Demo Content"
+msgstr ""
+
+#: core/widgets/vt-about-widget.php:200
+msgid "Description:"
+msgstr ""
+
+#: core/functions/template-functions.php:39
+msgid "Dismiss"
+msgstr ""
+
+#: core/widgets/vt-about-widget.php:23
+msgid "Display Author Profile."
+msgstr ""
+
+#: core/customizer/customizer-options.php:62
+msgid "Display Header Search"
+msgstr ""
+
+#: core/customizer/customizer-options.php:55
+msgid "Display Header Social Icons"
+msgstr ""
+
+#: core/customizer/customizer-options.php:243
+msgid "Display Post Nav"
+msgstr ""
+
+#: core/customizer/customizer-options.php:236
+msgid "Display Post Tags"
+msgstr ""
+
+#: core/customizer/customizer-options.php:250
+msgid "Display Related posts"
+msgstr ""
+
+#: core/customizer/customizer-options.php:274
+msgid "Display Social Profile"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:157
+#: core/welcome-screen/class-patricia-admin.php:160
+msgid "Documentation"
+msgstr ""
+
+#: page.php:30 single.php:35 template-full-width.php:33
+msgid "Edit"
+msgstr ""
+
+#: comments.php:21
+msgid "Email*"
+msgstr ""
+
+#: core/customizer/customizer-options.php:216
+msgid "Enable \"BackToTop\" button"
+msgstr ""
+
+#: core/customizer/customizer-options.php:142
+msgid "Enable Featured Slider"
+msgstr ""
+
+#: core/customizer/customizer-options.php:69
+msgid "Enable Image Overlay"
+msgstr ""
+
+#: core/customizer/customizer-options.php:209
+msgid "Enable Sticky Sidebar"
+msgstr ""
+
+#: core/customizer/customizer-options.php:82
+msgid "Enter social media profile links"
+msgstr ""
+
+#: template-parts/social-footer.php:3 core/customizer/customizer-options.php:89
+msgid "Facebook"
+msgstr ""
+
+#: core/widgets/vt-about-widget.php:80
+msgid "facebook"
+msgstr ""
+
+#: core/widgets/vt-about-widget.php:231
+msgid "Facebook:"
+msgstr ""
+
+#: core/customizer/customizer-options.php:135
+#: core/welcome-screen/class-patricia-admin.php:353
+msgid "Featured Slider"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:316
+msgid "Features"
+msgstr ""
+
+#: core/widgets/vt-latest-posts-widget.php:83
+msgid "Filter by Category:"
+msgstr ""
+
+#: core/customizer/customizer-options.php:261
+msgid "Footer"
+msgstr ""
+
+#: core/customizer/customizer-options.php:348
+msgid "Footer Background"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:398
+msgid "Footer Copyright Editor"
+msgstr ""
+
+#: core/customizer/customizer-options.php:362
+msgid "Footer Link Color"
+msgstr ""
+
+#: core/customizer/customizer-options.php:267
+msgid "Footer Logo"
+msgstr ""
+
+#: core/customizer/customizer-options.php:355
+msgid "Footer Text Color"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:106
+msgid "Free Vs Pro"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Free WordPress theme for bloggers who wants to share your travel expertise, "
+"photography, fashion tips, food recipes, lifestyle, beauty and makeup, "
+"coaching, or any other niche blog. This theme has beautiful featured slider, "
+"footer logo, 2 layout variation, custom widgets and many more including "
+"changing the color scheme to change the site color. Patricia Minimal is "
+"mobile friendly, SEO optimized and loads faster. Check demo at https:"
+"//volthemes.com/demo/?theme=patricia-minimal"
+msgstr ""
+
+#. Name of the template
+msgid "Full-width Page Template"
+msgstr ""
+
+#: core/customizer/customizer-library/extensions/class-upsell-customize.php:77
+msgid "Go Pro"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:214
+msgid "Go to Dashboard"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:214
+msgid "Go to Dashboard Home"
+msgstr ""
+
+#: core/functions/template-functions.php:38
+msgid "Go to the getting started."
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:181
+msgid "Got sales related question?"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:165
+msgid "Got theme support question?"
+msgstr ""
+
+#: core/customizer/customizer-options.php:48
+msgid "Header"
+msgstr ""
+
+#: core/customizer/customizer-options.php:327
+msgid "Header Background"
+msgstr ""
+
+#: core/customizer/customizer-options.php:177
+msgid "Homepage Layout"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://volthemes.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://volthemes.com/theme/patricia-minimal/"
+msgstr ""
+
+#: core/functions/template-tags.php:139
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: template-parts/social-footer.php:7
+#: core/customizer/customizer-options.php:117
+msgid "Instagram"
+msgstr ""
+
+#: core/widgets/vt-about-widget.php:112
+msgid "instagram"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:393
+msgid "Instagram Feed"
+msgstr ""
+
+#: core/widgets/vt-about-widget.php:267
+msgid "Instagram:"
+msgstr ""
+
+#: 404.php:14
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/content-none.php:34
+msgid ""
+"It seems we can't find what you're looking for. Perhaps searching can help."
+msgstr ""
+
+#: functions.php:124
+msgctxt "Karla font: on or off"
+msgid "on"
+msgstr ""
+
+#: searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: core/widgets/vt-latest-posts-widget.php:72
+msgid "Latest Posts"
+msgstr ""
+
+#: comments.php:34
+msgid "Leave a Reply"
+msgstr ""
+
+#: template-parts/social-footer.php:5
+msgid "LinkedIn"
+msgstr ""
+
+#: core/customizer/customizer-options.php:103
+msgid "Linkedin"
+msgstr ""
+
+#: core/widgets/vt-about-widget.php:96
+msgid "linkedin"
+msgstr ""
+
+#: core/widgets/vt-about-widget.php:249
+msgid "LinkedIn:"
+msgstr ""
+
+#: core/customizer/customizer-options.php:171
+#: core/customizer/customizer-options.php:185
+msgid "List Layout"
+msgstr ""
+
+#. 1: user login as
+#: comments.php:30
+msgid "Logged in as "
+msgstr ""
+
+#: template-parts/footer-logo.php:4
+msgid "Logo"
+msgstr ""
+
+#: core/functions/template-functions.php:90
+msgid "Main Menu"
+msgstr ""
+
+#: core/customizer/customizer-options.php:311
+msgid "Menu Link Color"
+msgstr ""
+
+#: core/customizer/customizer-options.php:319
+msgid "Menu Link Hover Color"
+msgstr ""
+
+#: core/functions/template-functions.php:107
+msgid "Mobile"
+msgstr ""
+
+#: 404.php:21
+msgid "Most Used Categories"
+msgstr ""
+
+#: comments.php:20
+msgid "Name"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:173
+msgid "Need more features?"
+msgstr ""
+
+#: comments.php:95 comments.php:112
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: template-parts/related-post.php:60
+msgid "No Picture"
+msgstr ""
+
+#: core/widgets/vt-latest-posts-widget.php:93
+msgid "Number of posts to show:"
+msgstr ""
+
+#: core/customizer/customizer-options.php:200
+msgid "Number of words to show on excerpt"
+msgstr ""
+
+#: 404.php:12
+msgid "Oops! That page can't be found."
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:378
+msgid "Override Theme Text"
+msgstr ""
+
+#: page.php:26 template-full-width.php:29 layouts/layout-standard.php:44
+msgid "Pages:"
+msgstr ""
+
+#: core/customizer/customizer-library/extensions/class-upsell-customize.php:76
+msgid "Patricia"
+msgstr ""
+
+#. Name of the theme
+#: core/welcome-screen/class-patricia-admin.php:317
+msgid "Patricia Minimal"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:318
+msgid "Patricia Pro"
+msgstr ""
+
+#: template-parts/social-footer.php:6
+#: core/customizer/customizer-options.php:110
+msgid "Pinterest"
+msgstr ""
+
+#: core/widgets/vt-about-widget.php:104
+msgid "pinterest"
+msgstr ""
+
+#: core/widgets/vt-about-widget.php:258
+msgid "Pinterest:"
+msgstr ""
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search and hit enter..."
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:166
+msgid "Please put it in our dedicated support forum."
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:182
+msgid "Please send it via our sales contact page."
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:158
+msgid "Please view our documentation page to setup the theme."
+msgstr ""
+
+#. %s: post author.
+#: core/functions/template-tags.php:77
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: core/functions/template-tags.php:145
+#, php-format
+msgid "Powered by ."
+msgstr ""
+
+#: functions.php:54
+msgid "Primary menu"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:82
+msgid "Rate this theme"
+msgstr ""
+
+#: layouts/layout-list.php:36 layouts/layout-standard.php:35
+msgid "Read more"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:19
+#, php-format
+msgid "Ready to publish your first post? Get started here."
+msgstr ""
+
+#: single.php:43
+msgid "Related Topics"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:323
+msgid "Responsive Design"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:211
+msgid "Return to Dashboard  Updates"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:211
+msgid "Return to Updates"
+msgstr ""
+
+#: searchform.php:17
+msgid "Search"
+msgstr ""
+
+#. %s: for the search keyword
+#: search.php:15
+#, php-format
+msgid "Search results for: "
+msgstr ""
+
+#: core/customizer/customizer-options.php:397
+msgid "Select Featured Category"
+msgstr ""
+
+#: core/widgets/vt-about-widget.php:208
+msgid "Select Image"
+msgstr ""
+
+#: functions.php:176
+msgid "Sidebar"
+msgstr ""
+
+#: core/customizer/customizer-options.php:229
+msgid "Single Post"
+msgstr ""
+
+#: core/customizer/customizer-options.php:341
+msgid "Site Tagline Color"
+msgstr ""
+
+#: core/customizer/customizer-options.php:334
+msgid "Site Title Color"
+msgstr ""
+
+#: header.php:31
+msgid "Skip to content"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:348
+msgid "Social Icons"
+msgstr ""
+
+#: core/customizer/customizer-options.php:81
+msgid "Social Media Profile"
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: core/customizer/customizer-options.php:172
+#: core/customizer/customizer-options.php:186
+msgid "Standard Layout"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:383
+msgid "Sticky Header"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:338
+msgid "Sticky Sidebar"
+msgstr ""
+
+#: comments.php:35
+msgid "Submit"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:408
+msgid "Support"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:168
+msgid "Support Forum"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:410
+msgid "Support Forum + Emails/Support Ticket"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:98
+msgid "Supported Plugins"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:149
+msgid "Theme Customizer"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:76
+msgid "Theme Info"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:343
+msgid "Theme Options"
+msgstr ""
+
+#: core/customizer/customizer-options.php:36
+msgid "Theme Settings"
+msgstr ""
+
+#: core/functions/template-tags.php:145
+#, php-format
+msgid "Theme:  by ."
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:285
+msgid "This theme recommends following plugins:"
+msgstr ""
+
+#: core/widgets/vt-about-widget.php:193
+#: core/widgets/vt-latest-posts-widget.php:79
+msgid "Title:"
+msgstr ""
+
+#: core/customizer/customizer-options.php:303
+msgid "Topbar Background"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:191
+#: core/welcome-screen/class-patricia-admin.php:199
+msgid "Translate"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:333
+msgid "Translation Ready"
+msgstr ""
+
+#. %1$s: smiley
+#: 404.php:37
+#, php-format
+msgid "Try looking in the monthly archives. "
+msgstr ""
+
+#: template-parts/social-footer.php:4 core/customizer/customizer-options.php:96
+msgid "Twitter"
+msgstr ""
+
+#: core/widgets/vt-about-widget.php:88
+msgid "twitter"
+msgstr ""
+
+#: core/widgets/vt-about-widget.php:240
+msgid "Twitter:"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:373
+msgid "Typography Settings"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:174
+#: core/welcome-screen/class-patricia-admin.php:311
+msgid "Upgrade to PRO version for more exciting features."
+msgstr ""
+
+#: core/widgets/vt-about-widget.php:226
+msgid "Upload Image"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:231
+msgid "View changelog below:"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:78
+msgid "View Demo"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:176
+#: core/welcome-screen/class-patricia-admin.php:416
+msgid "View Pro"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:80
+msgid "View PRO version"
+msgstr ""
+
+#. Author of the theme
+#: core/functions/template-tags.php:141
+msgid "VolThemes"
+msgstr ""
+
+#: comments.php:22
+msgid "Website"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:294
+msgid "WooCommerce"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:388
+msgid "WooCommerce Compatible"
+msgstr ""
+
+#: core/functions/template-tags.php:139
+msgid "WordPress"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:409
+msgid "WordPress Forum"
+msgstr ""
+
+#: core/functions/template-tags.php:145
+msgid "Y"
+msgstr ""
+
+#: core/welcome-screen/class-patricia-admin.php:291
+msgid "Yoast SEO"
+msgstr ""
+
+#: template-parts/related-post.php:39
+msgid "You Might Also Like"
+msgstr ""
+
+#: core/functions/template-tags.php:120
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: template-parts/social-footer.php:8
+msgid "YouTube"
+msgstr ""
+
+#: core/customizer/customizer-options.php:124
+msgid "Youtube"
+msgstr ""
+
+#: core/widgets/vt-about-widget.php:120
+msgid "youtube"
+msgstr ""
+
+#: core/widgets/vt-about-widget.php:276
+msgid "Youtube:"
+msgstr ""

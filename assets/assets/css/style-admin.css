@@ -1,0 +1,31 @@
+/* Patricia widgets */
+#widget-list [id*='_patricia'] .widget-top,
+#widget-list [id*="_patricia"] .widget-title h3 { 
+	background: #ceac92;
+	color: #fff;
+}
+#widget-list [id*='_patricia'] .widget-top .toggle-indicator {
+	color: #fff;
+}
+#available-widgets-list [id*="patricia-"].widget-tpl,
+#available-widgets-list [id*="patricia_minimal_"].widget-tpl  { 
+	background: #ccba88;
+	color: #fff;
+}
+
+#available-widgets-list [id*="patricia-"].widget-tpl:hover,
+#available-widgets-list [id*="patricia_minimal_"].widget-tpl:hover  { 
+	background: #ceac92;
+	color: #fff;
+}
+
+#available-widgets-list [id*="patricia-"] .widget-top, #available-widgets [id*="patricia-"] .widget .widget-description, 
+#available-widgets-list [id*="patricia_minimal_"] .widget-top, #available-widgets [id*="patricia_minimal_"] .widget .widget-description{ 
+	color: #fff;
+}
+
+.widget-separator { 
+	font-size: 18px; 
+	font-weight: 600;
+	border-bottom: 2px solid #ddd;
+}
