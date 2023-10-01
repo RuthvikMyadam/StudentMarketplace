@@ -1,7 +1,4 @@
-           Team: 
-           Ruthvik Kumar Myadam  - 1002026231 
-           Salman Shaik Mohammed - 1002034773 
-           Avaneesh Reddy        - 1001967595 
+
 
 	  User Logins:
 		ID: superadmin@org
